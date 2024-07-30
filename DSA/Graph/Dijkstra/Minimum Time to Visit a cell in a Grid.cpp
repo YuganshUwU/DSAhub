@@ -1,4 +1,6 @@
-// Leetcode Link : https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
+/* Leetcode Link : https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
+    Difficulty : Hard
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
