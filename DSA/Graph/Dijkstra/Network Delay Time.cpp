@@ -1,4 +1,6 @@
-// Leetcode Link               : https://leetcode.com/problems/network-delay-time/
+/*  Leetcode Link : https://leetcode.com/problems/network-delay-time/
+    Difficulty : Medium
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
