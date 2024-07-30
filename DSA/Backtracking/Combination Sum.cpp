@@ -1,4 +1,6 @@
-// Leetcode link : https://leetcode.com/problems/combination-sum/
+/*  Leetcode link : https://leetcode.com/problems/combination-sum/
+    Difficulty: Medium
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
