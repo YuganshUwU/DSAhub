@@ -1,4 +1,6 @@
-// Leetcode Link : https://leetcode.com/problems/second-minimum-time-to-reach-destination/
+/*  Leetcode Link : https://leetcode.com/problems/second-minimum-time-to-reach-destination/
+    Difficulty : Hard
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
