@@ -1,4 +1,6 @@
-//Leetcode Link : https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+/*  Leetcode Link : https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+    Difficulty: Hard
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
