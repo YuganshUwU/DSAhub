@@ -1,4 +1,6 @@
-// Leetcode Link : https://leetcode.com/problems/path-with-minimum-effort/
+/*  Leetcode Link : https://leetcode.com/problems/path-with-minimum-effort/
+    Difficulty : Medium
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
