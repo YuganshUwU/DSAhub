@@ -1,4 +1,6 @@
-// Leetcode Link: https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+/*  Leetcode Link: https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+    Difficulty : Medium
+*/
 
 #define inc()                                                                  \
     ios_base::sync_with_stdio(0);                                              \
