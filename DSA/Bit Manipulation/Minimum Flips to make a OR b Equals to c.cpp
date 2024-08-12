@@ -1,3 +1,7 @@
+/*  Leetcode link : https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+    Difficulty : Medium
+*/
+
 // Approach 1 
 
 // Time Complexity : O(n) -> n = max number of bits from a,b or c
