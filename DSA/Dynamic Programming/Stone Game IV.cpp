@@ -1,5 +1,5 @@
 /*  LeetCode link : https://leetcode.com/problems/stone-game-iv/
-    Difficulty : Medium
+    Difficulty : Hard
 */
 
 // Approach 1 : Recursion + Memoization
