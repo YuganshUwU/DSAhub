@@ -2,7 +2,7 @@
     Difficulty : Medium
 */
 
-// Time Complexity : O(n logn)
+// Time Complexity : O(n log(max element))
 // Space Complexity : O(1)
 
 #define INC()                                                                  \
