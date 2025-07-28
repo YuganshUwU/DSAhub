@@ -1,2 +1,2 @@
 # Interview-Prep
-Let's solve Leetcode and be stronger (:
+Let's solve questions and be stronger together(:
